@@ -207,7 +207,7 @@ def Mentorship(Mentors):
     if st.button("Request"):
         st.success("Request Sent Successfully! He/She will contact you soon")
     st.write('\n')
-    st.subheader("Experience & Qulifications")
+    st.subheader("Experience & Qualifications")
     st.write(
         """
     - ✔️ 7 Years expereince extracting actionable insights from data
@@ -289,7 +289,7 @@ if page == "SD":
 if page == "SP":
     Mentorship("Sathiskumar P")
 if page == "SS":
-    Mentorship("Swathi S")
+    Mentorship("Swathi V")
 if page == "YM":
     Mentorship("Yuvasree M")
 
